@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cjuliicsariseta00maitgoog_0008.png"; bbox 0 0 2169 3766; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2120 1520 2135 1777">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2120 1520 2135 1777">
+     <span class='ocr_line' id='line_1_1' title="bbox 2120 1520 2135 1777; baseline -128.5 642.5"><span class='ocrx_word' id='word_1_1' title='bbox 2127 1520 2132 1528; x_wconf 76' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_2' title='bbox 2127 1561 2132 1575; x_wconf 66' lang='lat' dir='ltr'>fl</span> <span class='ocrx_word' id='word_1_3' title='bbox 2120 1602 2135 1777; x_wconf 61' lang='lat' dir='ltr'>{lull-&#39;⁴1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2128 1796 2136 1981">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2128 1796 2136 1981">
+     <span class='ocr_line' id='line_1_2' title="bbox 2128 1796 2136 1981; baseline 61.667 -185"><span class='ocrx_word' id='word_1_4' title='bbox 2129 1796 2132 1801; x_wconf 81' lang='lat'>.</span> <span class='ocrx_word' id='word_1_5' title='bbox 2128 1816 2136 1981; x_wconf 55' lang='grc' dir='ltr'>1-1ἢεί</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
